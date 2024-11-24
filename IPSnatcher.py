@@ -21,6 +21,7 @@ print("""
 \033[0;35m[\033[0mINFO\033[0;35m]\033[0m Created by qaax_0 on discord
 \033[0;31m/!\ ALL STUFF HERE IS ONLY FOR EDUCATIONAL PURPOSES ONLY! /!\ \033[0m 
 a multi-tool for making loggers and pranks
+This multi tool is still in progress, its not finished!
 """)
 
 time.sleep(2);os.system("cls")
